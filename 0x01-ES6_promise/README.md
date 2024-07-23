@@ -1,0 +1,1 @@
+In this directory, I am learning es6 promises: How to and when to use async and await functions and what promises really does.

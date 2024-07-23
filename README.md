@@ -1,0 +1,1 @@
+In this directory, I'd be learning backend javascripts which inludes but not limited to nodeJS, ES6 
