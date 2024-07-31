@@ -1,0 +1,1 @@
+In this directory, I am learning javascript data manipulation
